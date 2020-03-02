@@ -17,9 +17,10 @@ Przy zakupie:
 - Dostęp do innych skryptów oraz dodatków
 - Supportuje 24/7 jak to możliwe
 
- - Koszt: 10zł PSC/PayPal/Przelew - 1 miesiąc
- - Koszt: 20zł PSC/PayPal/Przelew - 3 miesiące
- - Koszt: 50zł PSC/PayPal/Przelew - 6 miesięcy
+Koszt:
+ - 10zł PSC/PayPal/Przelew - 1 miesiąc
+ - 20zł PSC/PayPal/Przelew - 3 miesiące
+ - 50zł PSC/PayPal/Przelew - 6 miesięcy
 
 
 Aktualne wydanie: v2.0
