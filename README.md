@@ -9,6 +9,7 @@ Funkcje:
 - Automatyczne jedzenie
 - Różne tryby kopania!
 - Wiele dodatków do skryptu!
+- Zoptymalizowany kod
 
 Przy zakupie:
 - Pomagam w konfiguracji skryptu
